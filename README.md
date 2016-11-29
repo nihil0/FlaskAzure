@@ -1,7 +1,4 @@
-# Flask for Azure Web Apps [![Deploy to Azure](http://azuredeploy.net/deploybutton.png)](https://azuredeploy.net/)
+# Flask for Azure Web Apps 
 
-Flask is a microframework for Python based on Werkzeug, Jinja 2 and good intentions. And before you ask: It's [BSD licensed](http://flask.pocoo.org/docs/license/).
-
-[Read the documentation or download as PDF](http://flask.pocoo.org/docs/0.10/)
-
+The essence of Flask is minimalism and a do-it-your-way ethos. The existing template for deploying Flask on Azure flies in the face of everything that is good about Flask. This is an attempt at creating a minimal, clearly understandable Flask deployment template on Azure.
 
